@@ -26,6 +26,7 @@ export default function Hero() {
             <span className="tag">UI/UX</span>
             <span className="tag">Figma</span>
             <span className="tag">JavaScript</span>
+             <span className="tag">Tailwind </span>
           </div>
           <div className="stats">
             <div className="stat"><b>5+</b><s2>Societies</s2></div>
