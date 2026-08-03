@@ -92,6 +92,7 @@ export const skills = [
   { name: 'Verilog', dot: 'ss' },
   { name: 'Microsoft Office', dot: 'st' },
   { name: 'Data Analytics', dot: 'sa' },
+  { name: 'Vercel', dot: 'sa' },
 ];
 
 // Marquee strip items (rendered twice in the DOM originally, for the seamless loop)
@@ -103,6 +104,24 @@ export const marqueeItems = [
 
 // Experience & leadership timeline
 export const experience = [
+
+{
+    date: 'July 2026 - now',
+    tag: 'Internship',
+    tagClass: 'tw',
+    title: 'Developmer Intern',
+    org: 'SprintX',
+    bullets: [
+      'Developed and maintained full-stack web applications using React.js, JavaScript, and modern web technologies',
+      'Integrated REST APIs and custom AI solutions to build intelligent, user-centric applications',
+      'Collaborated with cross-functional teams to deliver scalable, high-quality client projects',
+      'Gathered client requirements and translated business needs into effective technical solutions',
+      'Supported Business Development by assisting with client communication, solution proposals, and project planning',
+      'Contributed to application testing, debugging, deployment, and performance optimization',
+      'Worked in an Agile development environment using Git/GitHub and industry best practices',
+    ],
+  },
+
   {
     date: 'Nov 2025',
     tag: 'Internship',
