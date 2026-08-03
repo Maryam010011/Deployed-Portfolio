@@ -6,7 +6,7 @@ export default function Contact() {
           <p className="slbl">Get in touch</p>
           <h2 className="stitle">Let's talk</h2>
           <div className="clinks">
-            <a href="mailto:maryamjahangir010011@gmail.com" className="cl">
+            <a href="mailto:maryam51214ali@gmail.com" className="cl">
               <div className="clico">
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <rect width="24" height="24" rx="4" fill="#EA4335" />
@@ -14,7 +14,7 @@ export default function Contact() {
                   <rect x="4" y="7" width="16" height="11" rx="1" stroke="#fff" strokeWidth="1.5" fill="none" />
                 </svg>
               </div>
-              <div className="clt"><strong>Email</strong><span>maryamjahangir010011@gmail.com</span></div>
+              <div className="clt"><strong>Email</strong><span>maryam51214ali@gmail.com</span></div>
             </a>
             <a href="https://www.linkedin.com/in/maryam-jahangir-4428a6332/" target="_blank" rel="noopener noreferrer" className="cl">
               <div className="clico">

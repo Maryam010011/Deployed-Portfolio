@@ -7,8 +7,8 @@ export default function About() {
         <div>
           <p className="rv">
             I'm a second-year Computer Science student at Air University, Islamabad who
-            stumbled into frontend development and never looked back. Building something
-            people can actually see and use — that's what got me hooked.
+            stumbled into Full Stack developemnt, Custom AI, Calling Agent, and never looked back. Building something
+            people can actually see and use that's what got me hooked.
           </p>
           <p className="rv">
             Outside the classroom, I've spent a lot of time teaching tutoring Physics,

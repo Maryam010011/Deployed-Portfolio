@@ -5,7 +5,7 @@ export default function Hero() {
     <div className="hero">
       <div className="hero-l">
         <div className="badge h1">Open to opportunities</div>
-        <h1 className="h2">Frontend developer<br />&amp; <em>CS student</em></h1>
+        <h1 className="h2">Full Stack Developer<br /><em>Able to make custom AI & Calling Agents</em></h1>
         <p className="h3">
           I build clean, responsive interfaces and love the intersection of design and tech.
           Currently studying Computer Science at Air University, Islamabad while leading
